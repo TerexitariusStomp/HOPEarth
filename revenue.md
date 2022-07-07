@@ -1,0 +1,9 @@
+# Revenue
+
+**Without fees how does HOPE make money?**
+
+In most DEX’s liquidity providers create liquidity through bonding two tokens together. However, when doing this the liquidity providers are subject to impermanent loss. Bancor pioneered an approach that allowed liquidity providers to continue to earn rewards without being exposed to impermanent loss. The main answer was to have one of the tokens being bonded in the liquidity pool be the token of the DEX, in this case HOPE token. People then provide the other side of the bond, in this context carbon credits or loyalty points tokens. As more people provide liquidity in the HOPE DEX, more HOPE tokens are locked up. People that have HOPE tokens locked up receive a proportional amount of locked HOPE tokens, this token allows the individual to participate in the governance of HOPE.&#x20;
+
+**Klima’s Role**&#x20;
+
+Klima currently is benefiting from transactions of carbon tokens on the polygon network, through token bonds. HOPE tokens can be minted through bridging wsKlima (a token that benefits from staking of Klima) to HOPE. wsKlima doesn’t increase in tokens, unlike sKlima, until unwrapped. As Klima is looking to try and be a blackhole for carbon credits it is likely that any carbon credits brought on chain will eventually be linked to Klima. As HOPE increases the buying of these credits (fees accumulated to Klima), it can directly be benefited through what Klima has built so far. In order for holders to redeem their HOPE for wsKlima it would need to be brought over to Polygon, then unwrapped. At that point all the accumulated sKlima will be available and with unstaking the sKlima can be traded for other values. By only allowing the core team to bridge the wsKlima to create HOPE, we control the amount of tokens issued.&#x20;
