@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Problem](README.md)
-* [Solution](solution.md)
+* [What](README.md)
 * [Micro and Nano Credits](micro-and-nano-credits/README.md)
   * [Sourcing](micro-and-nano-credits/sourcing.md)
 * [Infrastructure Needs](infrastructure-needs/README.md)
