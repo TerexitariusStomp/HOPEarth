@@ -1,3 +1,3 @@
-# Burning and Arbitrage
+# Arbitrage
 
 Burning, decreases the total available supply on HOPE and increases the value of the carbon credit. Once the value has risen enough in comparison to the credits on other blockchains, it can trigger people to bridge more credits from the other blockchains to HOPE. Once the credits have been bridged and supply increases the value of the credits drops, until it reaches an equivalent price as the other blockchains. It is not expected that the value of the credits will drop below the value of the credits on other blockchains, as it would not be of financial benefit for people to bridge their credits (they would have a lesser value).&#x20;
