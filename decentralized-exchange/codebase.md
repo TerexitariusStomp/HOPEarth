@@ -1,6 +1,6 @@
 # Codebase
 
-Balancer has been making extensive progress in automated market makers and decentralized exchanges since they were invented. [Their codebase](https://balancer.fi/whitepaper.pdf) is open source and able to be adapted to this use case.&#x20;
+Balancer has been making extensive progress in automated market makers and decentralized exchanges since they were invented. [Their codebase](https://balancer.fi/whitepaper.pdf) is open source and able to be adopted to this use case.&#x20;
 
 Another potential codebase is [GooseFX](https://docs.goosefx.io/goosefx-platform-features/ss-liquidity-provisioning).
 
