@@ -13,7 +13,7 @@
       * [Limited Quantity](micro-carbon-credits/creation-of-micro-carbon-credits/splitting/limited-quantity.md)
   * [Burning](micro-carbon-credits/burning/README.md)
     * [How To](micro-carbon-credits/burning/how-to.md)
-    * [Sato Servers](micro-carbon-credits/burning/sato-servers.md)
+    * [Sato-Servers](micro-carbon-credits/burning/sato-servers.md)
 * [Decentralized Exchange](infrastructure-needs/README.md)
   * [Liquidity Pools](decentralized-exchange/liquidity-pools.md)
   * [Codebase](decentralized-exchange/codebase.md)
